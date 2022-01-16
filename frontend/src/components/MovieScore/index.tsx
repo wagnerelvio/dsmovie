@@ -1,5 +1,8 @@
 import MovieStars from "components/MovieStars";
-import { Movie } from "types/movie";
+//import { Movie } from "types/movie";
+
+//import { Movie } from "types/movie";
+
 //import { movie } from "types/movie";
 import './styles.css';
 
